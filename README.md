@@ -61,7 +61,7 @@ Note: It's recommended to disable CSM Support, but disabling it prevents OC from
 
 ### USB mapping (based on [this](https://github.com/markosmk/Pynty-Hackintosh-Gigabyte-Z390-I-Aorus-Pro-Wifi/blob/master/images/portsusb.jpg) image):
 
-![USB ports](media/usb_ports.jpeg)
+![USB ports](media/usb_ports.jpg)
 
 ### Tools
 
